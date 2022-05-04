@@ -1,4 +1,4 @@
-###Full stack developer (Python / GoLang / JavaScript)
+### Full stack developer (Python / GoLang / JavaScript)
 
 Full-stack developer with rich experience in software development
 
